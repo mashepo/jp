@@ -3,6 +3,10 @@ jp
 
 <h1>Program na dzisiaj</h1>
 
+dodawanie obrazków [stackoverflow]
+
+
+
 <h2>lista</h2>
 <ol>
 <li>aaa</li>
@@ -20,3 +24,4 @@ jp
 
 <h2>zdjęcia</h2>
 
+[stackoverflow]: http://stackoverflow.com/
