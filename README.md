@@ -14,4 +14,6 @@ jp
 
 <a href="http:github.com/mashepo">Moje konto na github</a>
 
+<a href="http://www.ug.edu.pl">Uniwersytet Gdański</a>
+
 <a href="http://www.wp.pl">Wirtualna polska</a>
