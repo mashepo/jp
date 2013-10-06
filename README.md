@@ -17,3 +17,6 @@ jp
 <a href="http://www.ug.edu.pl">Uniwersytet Gdański</a>
 
 <a href="http://www.wp.pl">Wirtualna polska</a>
+
+<h2>zdjęcia</h2>
+
