@@ -11,4 +11,4 @@ jp
 </ol>
 
 <h2>link</h2>
-<a href="www.wp.pl"> </a>
+<a href="http://www.wp.pl">Wirtualna polska</a>
