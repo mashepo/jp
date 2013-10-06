@@ -2,8 +2,9 @@ jp
 ===
 
 <h1>Program na dzisiaj</h1>
-<p>Some of these words <em>are emphasized</em>.
-Some of these words <em>are emphasized also</em>.</p>
-
-<p>Use two asterisks for <strong>strong emphasis</strong>.
-Or, if you prefer, <strong>use two underscores instead</strong>.</p>
+<h2>kolory</h2>
+<ol>
+<li>red</li>
+<li>Green</li>
+<li>Blue</li>
+</ol>
