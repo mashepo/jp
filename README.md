@@ -12,6 +12,6 @@ jp
 
 <h2>link</h2>
 
-<a href="http://https://github.com/mashepo">Moje konto na github</a>
+<a href="http:github.com/mashepo">Moje konto na github</a>
 
 <a href="http://www.wp.pl">Wirtualna polska</a>
